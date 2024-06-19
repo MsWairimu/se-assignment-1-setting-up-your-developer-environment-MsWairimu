@@ -1,0 +1,103 @@
+Kabuu Charity
+Assignment 1
+
+Developer Environment Setup Documentation
+Operating System
+Windows 10 to Windows 11 Update
+
+1. My current Operating system is Windows 10
+2. I have updated my Pc OS to Windows 11 pro
+   - Steps to Update:
+I created a bootable drive with Windows 11 from another PC.
+After creating the bootable drive, I ejected it from that PC.
+I later ran the bootable drive on my laptop. 
+I inserted the drive while the PC was off, then later I turned it on while the drive was still in. 
+I then set the boot order to start from the USB flash drive with the windows 11 installation files, I saved the changes and proceeded with the setup.
+I then later followed the on-screen instructions and completed the installation process.
+Later I checked if the windows is active
+
+
+
+
+
+
+
+2. Text Editor or Integrated Development Environment (IDE)
+Visual Studio Code
+ Installation Steps:
+   - I visited the Visual Studio Code Download Page (https://code.visualstudio.com/Download).
+   - I downloaded the installer for Windows.
+   - I ran the installer and followed the setup wizard to complete the installation.
+
+![alt text](jnk.PNG)
+
+
+
+
+
+
+
+
+
+3. Version Control System
+ Git
+Download and Installation:
+   - I browsed and went to the Git Download Page (https://git-scm.com/downloads).
+   - I downloaded the appropriate installer for Windows.
+   - I ran the installer and followed the setup wizard to complete the installation.
+
+![alt text](Capture.PNG)
+
+
+
+4. GitHub
+
+1. Create GitHub Account:
+   - I visited GitHub (https://github.com), about a year ago.
+   - I signed up for a new account by providing the required information.
+   - I verified my email address to complete the registration.
+
+   ![alt text](Capture-1.PNG)
+
+2. Clone a Repository:
+   - I opened the terminal (git).
+   - I navigated to the directory where I wanted to clone the repository.
+   - I ran the following command:
+           - git clone https://github.com/username/repository.git
+           - I replaced https://github.com/username/repository.git with the actual URL of the repository to be cloned.
+
+
+![alt text](Capture-2.PNG)
+
+5. Programming Languages and Runtimes
+Python
+1. Download and Installation:
+   - I visited the Python Download Page (https://www.python.org).
+   - I downloaded the latest version for Windows.
+   - I ran the installer and ensured to check the option "Add Python to PATH".
+   - I followed the setup wizard to complete the installation.
+
+![alt text](Capture-3.PNG)
+
+6. Database
+MySQL
+1. Download and Installation:
+   - I visited the MySQL Installer Page 
+   - I downloaded the installer.
+   - I ran the installer and followed the setup wizard to complete the installation.
+
+   ![alt text](Capture-4.PNG)
+
+WAMP
+- I visited the WAMP download page
+- I followed the steps and installed the WAMP version that's compatible with my PC's specs.
+- After installation, I ran the application to make sure that its functioning.
+
+
+Exploring Extensions:
+   - I opened Visual Studio Code.
+   - I clicked on the Extensions icon in the sidebar or pressed Ctrl+Shift+X.
+   - I searched for and installed the following recommended extensions:
+   -The following extensions are the ones I managed to install.
+   
+   ![alt text](<WhatsApp Image 2024-06-19 at 22.45.38_5c1517ee.jpg>)
